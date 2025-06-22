@@ -57,3 +57,14 @@ Message Encoded:
 
 mjqqt btwqi
 ```
+![Image How_To_Work](images/How_To_Work.png)
+
+# ⬇️ How To Download
+**Linux 🐧or Mac OS 🍎:**
+
+```git clone https://github.com/Migq1203r/Caesar-Cipher.git```
+
+**Windows 🪟:**
+
+[>>>Download Here!<<<](https://github.com/Migq1203r/Caesar-Cipher/archive/refs/heads/main.zip)
+
